@@ -1,0 +1,153 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "writer@mail.com",
+      "password": 123456,
+      "role": "writer"
+    },
+    {
+      "id": 2,
+      "email": "reader@mail.com",
+      "password": 123456,
+      "role": "reader"
+    }
+  ],
+  "posts": [
+    {
+      "id": 2,
+      "title": "Название поста 2",
+      "description": "Loremav Lorema LoremaLoremaLoremaLorema ipsum dolor sit, amet consectetur adipisicing elit. Labore ipsum inventore, in cupiditate totam consectetur fuga harum unde eos commodi nesciunt hic aliquid sequi minus. Aspernatur nemo quas laboriosam aut.",
+      "claps": 67,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "Fri Apr 24 2020 00:19:25 GMT+0300 (Москва, стандартное время)",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "title": "Название поста 3",
+      "description": "psum dolor sit, amet consectetur adipisicing elit. Labore ipsum inventore, in cupiditate totam consectetur fuga harum unde eos commodi nesciunt hic aliquid sequi minus.",
+      "claps": 20,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "Fri Apr 24 2020 18:33:34 GMT+0300 (Москва, стандартное время)",
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "title": "Название поста 4",
+      "description": "Lorema ipsum dolor sit, amet consectetur adipisicing elit. Labore ipsum inventore, in cupiditate totam consectetur fuga harum unde eos commodi nesciunt hic aliquid sequi minus.",
+      "claps": 7,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "Thu Apr 23 2020 17:07:40 GMT+0300 (Москва, стандартное время)",
+      "userId": 1
+    },
+    {
+      "id": 8,
+      "title": "Название поста 8",
+      "description": "Lorema ipsum dolor sit, amet consectetur adipisicing elit. Labore ipsum inventore, in cupiditate totam consectetur fuga harum unde eos commodi nesciunt hic aliquid sequi minus.",
+      "claps": 6,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "Thu Apr 23 2020 17:07:40 GMT+0300 (Москва, стандартное время)",
+      "userId": 1
+    },
+    {
+      "id": 10,
+      "title": "Название поста 10",
+      "description": "Lorema ipsum dolor sit, amet consectetur adipisicing elit. Labore ipsum inventore, in cupiditate totam consectetur fuga harum unde eos commodi nesciunt hic aliquid sequi minus.",
+      "claps": 6,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "Thu Apr 23 2020 17:07:40 GMT+0300 (Москва, стандартное время)",
+      "userId": 1
+    },
+    {
+      "id": 11,
+      "title": "Название поста 11",
+      "description": "Lorema ipsum dolor sit, amet consectetur adipisicing elit. Labore ipsum inventore, in cupiditate totam consectetur fuga harum unde eos commodi nesciunt hic aliquid sequi minus.",
+      "claps": 5,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "Thu Apr 23 2020 17:07:40 GMT+0300 (Москва, стандартное время)",
+      "userId": 1
+    },
+    {
+      "id": 12,
+      "title": "Название поста 12",
+      "description": "Lorema ipsum dolor sit, amet consectetur adipisicing elit. Labore ipsum inventore, in cupiditate totam consectetur fuga harum unde eos commodi nesciunt hic aliquid sequi minus.",
+      "claps": 11,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "Thu Apr 23 2020 17:07:40 GMT+0300 (Москва, стандартное время)",
+      "userId": 1
+    },
+    {
+      "id": 13,
+      "title": "Название поста 13",
+      "description": "Lorema ipsum dolor sit, amet consectetur adipisicing elit. Labore ipsum inventore, in cupiditate totam consectetur fuga harum unde eos commodi nesciunt hic aliquid sequi minus.",
+      "claps": 5,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "Thu Apr 23 2020 17:07:40 GMT+0300 (Москва, стандартное время)",
+      "userId": 1
+    },
+    {
+      "id": 14,
+      "title": "Название поста 14",
+      "description": "Lorema ipsum dolor sit, amet consectetur adipisicing elit. Labore ipsum inventore, in cupiditate totam consectetur fuga harum unde eos commodi nesciunt hic aliquid sequi minus.",
+      "claps": 9,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "Thu Apr 23 2020 17:07:40 GMT+0300 (Москва, стандартное время)",
+      "userId": 1
+    },
+    {
+      "id": 25,
+      "title": "Название поста 25k",
+      "description": "Lorema ipsum dolor sit, amet consectetur adipisicing elit. Labore ipsum inventore, in cupiditate totam consectetur fuga harum unde eos commodi nesciunt hic aliquid sequi minus.",
+      "claps": 5,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "Fri Apr 24 2020 18:47:41 GMT+0300 (Москва, стандартное время)",
+      "userId": 1
+    },
+    {
+      "id": 99,
+      "title": "test",
+      "description": "asdfdsa",
+      "userId": 1,
+      "claps": 1,
+      "createdAt": "Fri Apr 24 2020 00:16:37 GMT+0300 (Москва, стандартное время)",
+      "updateAt": null
+    },
+    {
+      "id": 81,
+      "title": "rewq",
+      "description": "Lorema ipsum dolor sit, amet consectetur adipisicing elit. Labore ipsum inventore, in cupiditate totam consectetur fuga harum unde eos commodi nesciunt hic aliquid sequi minus. 11:09 PM - 1 Jan 2016",
+      "userId": 1,
+      "claps": 3,
+      "createdAt": "Fri Apr 24 2020 00:19:54 GMT+0300 (Москва, стандартное время)",
+      "updateAt": "Fri Apr 24 2020 17:21:19 GMT+0300 (Москва, стандартное время)"
+    },
+    {
+      "id": 82,
+      "title": "test1",
+      "description": "Lorema ipsum dolor sit, amet consectetur adipisicing elit. Labore ipsum inventore, in cupiditate totam consectetur fuga harum unde eos commodi nesciunt hic aliquid sequi minus.",
+      "userId": 1,
+      "claps": 0,
+      "createdAt": "Fri Apr 24 2020 00:20:13 GMT+0300 (Москва, стандартное время)",
+      "updateAt": null
+    },
+    {
+      "id": 83,
+      "title": "test2",
+      "description": "Lorema ipsum dolor sit, amet consectetur adipisicing elit. Labore ipsum inventore, in cupiditate totam consectetur fuga harum unde eos commodi nesciunt hic aliquid sequi minus.",
+      "userId": 1,
+      "claps": 1,
+      "createdAt": "Fri Apr 24 2020 00:20:20 GMT+0300 (Москва, стандартное время)",
+      "updateAt": null
+    },
+    {
+      "id": 70,
+      "title": "Новый пост",
+      "description": "Lorema ipsum dolor sit, amet consectetur adipisicing elit. ",
+      "userId": 1,
+      "claps": 7,
+      "createdAt": "Fri Apr 24 2020 17:20:58 GMT+0300 (Москва, стандартное время)",
+      "updateAt": null
+    }
+  ]
+}
