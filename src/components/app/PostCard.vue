@@ -16,12 +16,12 @@
       </div>
       <footer class="card-footer" v-if="isWriter">
         <router-link :to="`/posts/${post.id}/edit`" class="card-footer-item"
-          >Edit</router-link
+          >Редактировать</router-link
         >
         <a
           class="card-footer-item"
           @click.prevent="$emit('remove-post', post.id)"
-          >Delete</a
+          >Удалить</a
         >
       </footer>
 

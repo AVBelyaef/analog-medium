@@ -17,11 +17,11 @@
       </div>
       <footer class="card-footer" v-if="isWriter">
         <router-link :to="`/posts/${post.id}/edit`" class="card-footer-item"
-          >Edit</router-link
+          >Редактировать</router-link
         >
-        <a class="card-footer-item" @click.prevent="removePost">Delete</a>
+        <a class="card-footer-item" @click.prevent="removePost">Удалить</a>
       </footer>
-      <footer class="card-footer" v-if="isReader">
+      <footer class="card-footer-like" v-if="isReader">
         <b-button
           type="is-success"
           @click.prevent="likePost"
@@ -84,5 +84,8 @@ export default {
 .card {
   max-width: 500px;
   margin: 20px 0;
+   .card-footer-like {
+    padding: 10px;
+  } 
 }
 </style>
